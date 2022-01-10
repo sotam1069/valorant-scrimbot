@@ -1,5 +1,5 @@
 discord:
-  token: OTI5OTMzODcyNTMwMDkyMDUy.YduiaA.tgMpSQK9Onnp-ySRrsOBM_t0D3Y
+  token: OTI5OTMzODcyNTMwMDkyMDUy.YduiaA.NNW8poU2cSPSU4AKYjl-o0aw2iY
   admin_role_id: Administration
   team_a_channel_id: 929926864686944326
   team_b_channel_id: 929926882827304971
