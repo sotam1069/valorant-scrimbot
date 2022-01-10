@@ -1,0 +1,6 @@
+discord:
+  token: OTI5OTMzODcyNTMwMDkyMDUy.YduiaA.sdyPsi1rC5exeShXPUZ50_7Y05I
+  admin_role_id: Administration
+  team_a_channel_id: 929926864686944326
+  team_b_channel_id: 929926882827304971
+  assign_role_id: In queue
